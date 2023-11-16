@@ -143,3 +143,40 @@ margin-top: 500px;
     background-color: black;
     transform: rotate(30deg);
 }
+
+
+.strleft4{
+    position: absolute;
+    top: 231px;
+    left:112px;
+    width: 15px;
+    height: 80px;
+    background-color: black;
+    transform: rotate(-30deg);
+    
+
+}
+
+.strleft5{
+
+    position: absolute;
+    top: 250px;
+    left: 76px;
+    width: 15px;
+    height: 80px;
+    background-color: black;
+    transform: rotate(-30deg);
+}
+
+
+ 
+    
+.strleft6{
+    position: absolute;
+    top: 241px;
+    left: 94px;
+    width: 15px;
+    height: 80px;
+    background-color: black;
+    transform: rotate(-30deg);
+}

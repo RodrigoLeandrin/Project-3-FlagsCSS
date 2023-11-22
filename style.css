@@ -69,7 +69,7 @@ margin-top: 500px;
     border: solid 1px white;
     background-color: white;
     margin: auto;
-    margin-top: 250px;
+    margin-top: 50px;
     display: flex;
     position: relative;
 }
@@ -179,4 +179,28 @@ margin-top: 500px;
     height: 80px;
     background-color: black;
     transform: rotate(-30deg);
+}
+
+
+
+.flag3{
+    width: 560px;
+    height: 373px;
+    border: solid 1px white;
+    background-color: rgb(25, 167, 25);
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    position: relative;
+}
+
+.circle1br{
+    background-color: blue;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
 }
